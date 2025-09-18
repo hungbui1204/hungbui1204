@@ -10,8 +10,10 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
       # Generate snake animation
@@ -20,8 +22,8 @@ jobs:
         with:
           github_user_name: ${{ github.hubgui1204 }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
       
       # push on repository
       - name: Push github-contribution-grid-snake.svg to the output branch
