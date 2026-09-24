@@ -1,10 +1,52 @@
+<h1 align="center">Hung Bui</h1>
+<p align="center">
+  Mobile Developer · Ho Chi Minh City
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hung-bui-40033b253/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:hungbui120401@gmail.com">hungbui120401@gmail.com</a>
+</p>
+
+I build cross-platform mobile apps with Flutter and Dart, from the interface through REST APIs to the data layer. Day to day that means Firebase, Supabase, and SQL — PostgreSQL, MySQL, and SQLite.
+
+I am a Mobile Developer at [Splus-Software](https://www.linkedin.com/company/splus-software) in Ho Chi Minh City.
+
+<p align="center">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+</p>
+
+## Experience
+
+**Mobile Developer** — [Splus-Software JSC](https://www.linkedin.com/company/splus-software)  
+Oct 2023 — Present · Ho Chi Minh City
+
+**Mobile Developer** — STVG  
+Jun 2022 — Aug 2022 · Ho Chi Minh City  
+Flutter mobile and web applications, REST APIs, and project work on GitHub.
+
+## Stack
+
+| Area | What I use |
+| --- | --- |
+| Mobile | Flutter, Dart |
+| Data | Firebase, Supabase, PostgreSQL, MySQL, SQLite |
+| Cloud | Google Cloud |
+| API | REST, Postman, Swagger |
+| Collaboration | Git, GitHub, GitLab, Bitbucket |
+
+## Projects
+
+**[Walleto](https://github.com/hungbui1204/walleto)** — A Flutter money manager for tracking personal finances.
+
+## Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hungbui1204/hungbui1204/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hungbui1204/hungbui1204/output/github-snake.svg">
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/hungbui1204/hungbui1204/output/github-snake.svg">
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/hungbui1204/hungbui1204/output/github-snake.svg">
 </picture>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hung-bui-40033b253/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hungbui120401@gmail.com) 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
